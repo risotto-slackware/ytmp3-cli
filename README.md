@@ -1,5 +1,4 @@
 # ytmp3-cli
-# ytmp3-cli
 
 Simple Linux CLI tool to download MP3 audio from YouTube.
 
